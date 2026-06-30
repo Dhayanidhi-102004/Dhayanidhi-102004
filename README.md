@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | .NET Backend Specialist
+# 🚀 Full Stack Developer | .NET Backend Beginner
 
 Building scalable applications with **C#, ASP.NET Core, React, SQL Server, and modern web technologies**
 
